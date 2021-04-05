@@ -5,6 +5,6 @@ This App provides interfaces for both segmenting EEG signals as well as viewing 
 
 Please check the SingleEEGPCA1_3.mlapp file for more information and dependencies.
 
-Example of an occular artifact:
+Example of an occular artifact (a change in signal resulting from eye movements):
 
 ![alt text](https://github.com/Herr-Whit/PCA_EEG/blob/master/Examples/Components_Occular%20channel.JPG)
